@@ -10,14 +10,14 @@ It contains only two main files:
 
 ## 🌐 Live Website
 
-👉 [Click here to view website](https://YOUR_USERNAME.github.io/task6-website/)
+👉 [Click here to view website](https://github.com/rushisonawane28/task6-website.git)
 
 ## ⚙️ How to Run Locally
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task6-website.git
+   git clone https://github.com/rushisonawane/task6-website.git
    ```
 2. Navigate to the project folder:
 
@@ -28,8 +28,8 @@ It contains only two main files:
 
 ## 📤 Submission
 
-* **GitHub Repo Link:** [https://github.com/YOUR_USERNAME/task6-website](https://github.com/YOUR_USERNAME/task6-website)
-* **Live Website Link:** [https://YOUR_USERNAME.github.io/task6-website/](https://YOUR_USERNAME.github.io/task6-website/)
+* **GitHub Repo Link:** [https://github.com/YOUR_USERNAME/task6-website](https://github.com/rushisonawane28/task6-website.git)
+* **Live Website Link:** [https://YOUR_USERNAME.github.io/task6-website/](https://github.com/rushisonawane28/task6-website.git)
 
 ## ✨ Outcome
 
