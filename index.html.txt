@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mera GitHub Pages Site</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Demo Website</h1>
+    <p>GitHub Pages host</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About</h2>
+      <p>simple static site  — HTML + CSS।</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made with ❤️ by RUSHIKESH SONAWANE</p>
+  </footer>
+</body>
+</html>
